@@ -229,27 +229,17 @@ Feature importance also improves model interpretability and provides engineering
 Steam-Turbine-Digital-Twin/
 │
 ├── README.md
-├── LICENSE
-├── requirements.txt
 ├── steam-turbine-digital-twin.ipynb
+├── requirements.txt
+├── dataset_description.md
+├── digital_twin_concept.md
+├── model_performance.md
 │
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   ├── r2_comparison.png
-│   └── mae_comparison.png
-│
-├── reports/
-│   └── project_report.pdf
-│
-├── docs/
-│   ├── methodology.md
-│   ├── dataset_description.md
-│   └── digital_twin_concept.md
-│
-└── results/
-    └── model_performance.csv
-```
+└── images/
+    ├── correlation_heatmap.png
+    ├── feature_importance.png
+    ├── r2_comparison.png
+    └── mae_comparison.png
 
 ---
 
