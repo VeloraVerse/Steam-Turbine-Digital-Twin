@@ -40,10 +40,10 @@ The model predicts key performance indicators using operational plant data.
 
 | Target | R² Score |
 |----------|----------|
-| Gross Load | ... |
-| HP Turbine Efficiency | ... |
-| NPHR | ... |
-| NTHR | ... |
+| Gross Load | 0.011 |
+| HP Turbine Efficiency | 0.008 |
+| NPHR | 18.289 |
+| NTHR | 16.794 |
 
 ## Future Work
 
