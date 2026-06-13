@@ -1,6 +1,6 @@
-| Target Variable           |   R² Score |       MAE |
-|:--------------------------|-----------:|----------:|
-| Gross Load (MW)           | 0.01104182 | 0.9920708 |
-| HP Turbine Efficiency (%) | 0.00836704 | 0.2753247 |
-| NPHR (Kcal/KWh)           | 0.00101645 | 18.2898808|
-| NTHR (Kcal/KWh)           | 0.07696508 | 16.7943341|
+| Target Variable | R² Score | MAE |
+|----------------|----------|----------|
+| Gross Load (MW) | 0.011041824 | 0.99207082 |
+| HP Turbine Efficiency (%) | 0.008367040 | 0.275324707 |
+| NPHR (Kcal/KWh) | 0.001016452 | 18.28988084 |
+| NTHR (Kcal/KWh) | 0.076965081 | 16.794334103 |
